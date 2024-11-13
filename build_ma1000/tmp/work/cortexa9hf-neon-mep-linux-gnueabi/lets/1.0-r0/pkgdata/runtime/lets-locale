@@ -1,0 +1,13 @@
+PN: lets
+PV: 1.0
+PR: r0
+PKGV: 1.0
+PKGR: r0
+LICENSE: MORPHO
+DESCRIPTION: lets version 1.0-r0.
+SUMMARY: lets version 1.0-r0
+SECTION: base
+PKG_lets-locale: lets-locale
+FILES_lets-locale: /usr/share/locale
+FILES_INFO: {}
+PKGSIZE_lets-locale: 0

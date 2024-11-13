@@ -1,0 +1,6 @@
+DEBUG: Executing shell function do_compile
+NOTE: make -j 48
+execute Makefile
+#
+arm-mep-linux-gnueabi-gcc  -march=armv7-a -mfpu=neon  -mfloat-abi=hard -mcpu=cortex-a9 --sysroot=/home/linux/work/build_ma1000/tmp/sysroots/ma1000 -o hello-world hello-world.c
+DEBUG: Shell function do_compile finished

@@ -1,0 +1,14 @@
+PN: lets
+PV: 1.0
+PR: r0
+PKGV: 1.0
+PKGR: r0
+LICENSE: MORPHO
+DESCRIPTION_lets-staticdev: lets version 1.0-r0.  This package contains static libraries for software development.
+SUMMARY_lets-staticdev: lets version 1.0-r0 - Development files (Static Libraries)
+RDEPENDS_lets-staticdev: lets-dev (= 1.0-r0)
+SECTION_lets-staticdev: devel
+PKG_lets-staticdev: lets-staticdev
+FILES_lets-staticdev: /usr/lib/*.a /lib/*.a /usr/lib/lets/*.a
+FILES_INFO: {}
+PKGSIZE_lets-staticdev: 0
