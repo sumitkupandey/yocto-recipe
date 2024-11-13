@@ -1,9 +1,0 @@
-DEBUG: Executing python function sysroot_cleansstate
-DEBUG: Python function sysroot_cleansstate finished
-DEBUG: Executing shell function do_configure
-DEBUG: Shell function do_configure finished
-DEBUG: Executing python function do_qa_configure
-ERROR: QA Issue: lets: LIC_FILES_CHKSUM points to an invalid file: /home/linux/work/build_ma1000/tmp/work/cortexa9hf-neon-mep-linux-gnueabi/lets/1.0-r0/lets-1.0/COPYING.MIT [license-checksum]
-ERROR: Fatal QA errors found, failing task.
-DEBUG: Python function do_qa_configure finished
-ERROR: Function failed: do_qa_configure

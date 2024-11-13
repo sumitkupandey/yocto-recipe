@@ -1,5 +1,0 @@
-DEBUG: Executing shell function do_install
-NOTE: make -j 48 install DESTDIR=/home/linux/work/build_ma1000/tmp/work/cortexa9hf-neon-mep-linux-gnueabi/lets/1.0-r0/image
-make: *** No rule to make target `install'.  Stop.
-ERROR: oe_runmake failed
-ERROR: Function failed: do_install (log file is located at /home/linux/work/build_ma1000/tmp/work/cortexa9hf-neon-mep-linux-gnueabi/lets/1.0-r0/temp/log.do_install.131)

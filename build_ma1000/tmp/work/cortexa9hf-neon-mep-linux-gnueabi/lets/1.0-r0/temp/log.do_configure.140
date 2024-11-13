@@ -1,7 +1,0 @@
-DEBUG: Executing python function sysroot_cleansstate
-DEBUG: Python function sysroot_cleansstate finished
-DEBUG: Executing shell function do_configure
-DEBUG: Shell function do_configure finished
-DEBUG: Executing python function do_qa_configure
-NOTE: lets: md5 checksum matched for file:///home/linux/work/oe-mep/meta/files/licenses/MORPHO;md5=582b8bb5a4963565e495e2d987e805bb
-DEBUG: Python function do_qa_configure finished

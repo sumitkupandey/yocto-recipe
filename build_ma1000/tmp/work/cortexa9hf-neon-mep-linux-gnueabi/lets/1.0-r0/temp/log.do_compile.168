@@ -1,6 +1,0 @@
-DEBUG: Executing shell function do_compile
-NOTE: make -j 48
-make: *** No targets specified and no makefile found.  Stop.
-WARNING: exit code 1 from a shell command.
-ERROR: oe_runmake failed
-ERROR: Function failed: do_compile (log file is located at /home/linux/work/build_ma1000/tmp/work/cortexa9hf-neon-mep-linux-gnueabi/lets/1.0-r0/temp/log.do_compile.168)
